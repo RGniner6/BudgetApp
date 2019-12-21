@@ -1,2 +1,4 @@
 /workspace.xml
-/.idea/*
+/.idea/
+.idea
+.DS_Store
